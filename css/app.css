@@ -1,0 +1,29 @@
+html, body {
+	font-family: Helvetica;
+	margin: 0px;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.navigation-bar {
+	height: 44px;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 44px;
+	border-bottom: 1px #EEEEEE solid;
+	text-align: center;
+	margin: 0px;
+}
+
+.view-controller .view {
+	font-size: 14px;
+	padding: 10px;
+}
