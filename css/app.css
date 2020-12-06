@@ -9,13 +9,13 @@ a {
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: normal;
 }
 
 .navigation-bar {
 	height: 44px;
-	font-size: 18px;
+	font-size: 21px;
 	font-weight: normal;
 	line-height: 44px;
 	border-bottom: 1px #EEEEEE solid;
@@ -24,6 +24,6 @@ h2 {
 }
 
 .view-controller .view {
-	font-size: 14px;
+	font-size: 16px;
 	padding: 10px;
 }
